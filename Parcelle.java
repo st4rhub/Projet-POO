@@ -32,7 +32,7 @@ public class Parcelle{
         return this.activites;
     }
 
-    public void setNum(int num_parc) throws ParcelleException{ // MARCHE PAS LA CONNE DE SES MORTS
+    public void setNum(int num_parc) throws ParcelleException{
        if (num_parc < 0){
         throw new ParcelleException();
        }
