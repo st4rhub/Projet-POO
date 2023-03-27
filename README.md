@@ -1,4 +1,4 @@
-# Projet-POO (Binôme DURAND-SIMONNET/PIOCHE)
+# Projet-POO (PIOCHE)
 
 ### Description
 
